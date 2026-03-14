@@ -7,6 +7,7 @@ The method selectively fine-tunes convolutional layers based on feature-map entr
 # Paper
 
 Ömer Mintemur
+
 Entropy-Based Convolutional Layer Selection for Transfer Learning in Brain Tumor Detection
 
 Accepted in the Arabian Journal for Science and Engineering (Springer), 2026.
